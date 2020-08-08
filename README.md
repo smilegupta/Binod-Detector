@@ -5,4 +5,4 @@
 
 ## Technology Stack Used
 
-- **Python**  ![Python](https://img.shields.io/badge/python-black.svg?logo=python&style=flat-square) 
+![Python](https://img.shields.io/badge/python-black.svg?logo=python&style=flat-square) 
