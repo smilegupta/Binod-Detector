@@ -6,4 +6,4 @@
 ## Technology Stack Used
 **Language used: Python**
 \
-Module used of Python: [OS](https://www.geeksforgeeks.org/os-module-python-examples/)
+Module : [OS](https://www.geeksforgeeks.org/os-module-python-examples/)
