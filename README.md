@@ -7,4 +7,4 @@
 
 ![Python](https://img.shields.io/badge/backend-python-black.svg?logo=python&style=flat-square) 
 \
-**Python** Libraries includs os
+Module used: os (The OS module in python provides functions for interacting with the operating system. OS, comes under Python’s standard utility modules.)
