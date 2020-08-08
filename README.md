@@ -6,5 +6,5 @@
 ## Technology Stack Used
 
 ![Python](https://img.shields.io/badge/backend-python-black.svg?logo=python&style=flat-square) 
-/ 
+\
 **Python** Libraries includs os
