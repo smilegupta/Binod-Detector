@@ -25,17 +25,9 @@ Python Module **OS**  :octocat:
 
 ```
 
-
+***Glad to see you here! Show some love by [starring](https://github.com/smilegupta/Binod-Detector/) this repo.***
 
 [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@smileguptaaa&color=grey&logo=facebook&style=flat&logoColor=white&colorA=blue)](https://www.facebook.com/smileguptaaa)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@smileguptaaa&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/smileguptaaa/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/smilegupta/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@smileguptaaa&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/smileguptaaa)
 
-***Glad to see you here! Show some love by [starring](https://github.com/smilegupta/Binod-Detector/) this repo.***
 
-```
 
-  if (isAwesome) {
-    // thanks in advance :p
-    starThisRepository();
-  }
-
-```
