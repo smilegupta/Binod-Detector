@@ -11,8 +11,6 @@ Python Module **OS**  :octocat:
 
 ***Glad to see you here! Show some love by [starring](https://github.com/smilegupta/Binod-Detector/) this repo.***
 
------
-
 ```
 
   if (isAwesome) {
@@ -22,4 +20,4 @@ Python Module **OS**  :octocat:
 
 ```
 
-******
+
