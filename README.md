@@ -13,6 +13,14 @@ Python Module **OS**  :octocat:
 *https://www.geeksforgeeks.org/os-module-python-examples/*
 
 
+### How to Run this application on your Local Machine
+- Clone this repository
+- Run the program using any Interpreter
+
+
+### Want to Customise the program according to your need
+- Replace the word  binod mentioend in Line 7 in main.py file 
+
 ### Still need help?
 
 ```
