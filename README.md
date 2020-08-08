@@ -13,6 +13,19 @@ Python Module **OS**  :octocat:
 *https://www.geeksforgeeks.org/os-module-python-examples/*
 
 
+### Still need help?
+
+```
+
+  if (needHelp === true) {
+     var emailId = "guptamiley3012@gmail.com";
+     // email is the best way to reach out to me.
+     sendEmail(emailId);
+  }
+
+```
+
+
 ***Glad to see you here! Show some love by [starring](https://github.com/smilegupta/Binod-Detector/) this repo.***
 
 ```
