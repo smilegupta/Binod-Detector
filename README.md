@@ -4,8 +4,5 @@
 
 
 ## Technology Stack Used
-
-![Python](https://img.shields.io/badge/backend-python-black.svg?logo=python&style=flat-square) 
-\
-\
-Module used: [OS](https://www.geeksforgeeks.org/os-module-python-examples/)
+Language used: Python
+Module used of Python: [OS](https://www.geeksforgeeks.org/os-module-python-examples/)
